@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishisharmaa11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nishisharmaa11/Leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/nishisharmaa11/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nishisharmaa11/Leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishisharmaa11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nishisharmaa11/Leetcode/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
