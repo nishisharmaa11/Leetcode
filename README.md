@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishisharmaa11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nishisharmaa11/Leetcode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/nishisharmaa11/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/nishisharmaa11/Leetcode/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
