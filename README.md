@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nishisharmaa11/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/nishisharmaa11/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
