@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/nishisharmaa11/Leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nishisharmaa11/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/nishisharmaa11/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/nishisharmaa11/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nishisharmaa11/Leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/nishisharmaa11/Leetcode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nishisharmaa11/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
@@ -72,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nishisharmaa11/Leetcode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nishisharmaa11/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
