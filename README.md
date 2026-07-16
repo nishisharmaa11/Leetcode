@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nishisharmaa11/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishisharmaa11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/nishisharmaa11/Leetcode/tree/master/0217-contains-duplicate) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishisharmaa11/Leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nishisharmaa11/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nishisharmaa11/Leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nishisharmaa11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nishisharmaa11/Leetcode/tree/master/0389-find-the-difference) |
