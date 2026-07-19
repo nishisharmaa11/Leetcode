@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nishisharmaa11/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nishisharmaa11/Leetcode/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/nishisharmaa11/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/nishisharmaa11/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nishisharmaa11/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishisharmaa11/Leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/nishisharmaa11/Leetcode/tree/master/0605-can-place-flowers) |
 ## Backtracking
 |  |
 | ------- |
