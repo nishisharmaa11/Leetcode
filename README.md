@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nishisharmaa11/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/nishisharmaa11/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/nishisharmaa11/Leetcode/tree/master/0704-binary-search) |
+| [0976-largest-perimeter-triangle](https://github.com/nishisharmaa11/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nishisharmaa11/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/nishisharmaa11/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishisharmaa11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nishisharmaa11/Leetcode/tree/master/0389-find-the-difference) |
+| [0976-largest-perimeter-triangle](https://github.com/nishisharmaa11/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nishisharmaa11/Leetcode/tree/master/0412-fizz-buzz) |
+| [0976-largest-perimeter-triangle](https://github.com/nishisharmaa11/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nishisharmaa11/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nishisharmaa11/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/nishisharmaa11/Leetcode/tree/master/2235-add-two-integers) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishisharmaa11/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/nishisharmaa11/Leetcode/tree/master/0605-can-place-flowers) |
+| [0976-largest-perimeter-triangle](https://github.com/nishisharmaa11/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Backtracking
 |  |
 | ------- |
