@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nishisharmaa11/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nishisharmaa11/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/nishisharmaa11/Leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/nishisharmaa11/Leetcode/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nishisharmaa11/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishisharmaa11/Leetcode/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nishisharmaa11/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
