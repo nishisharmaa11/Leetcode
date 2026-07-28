@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/nishisharmaa11/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nishisharmaa11/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nishisharmaa11/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1903-largest-odd-number-in-string](https://github.com/nishisharmaa11/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/nishisharmaa11/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/nishisharmaa11/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nishisharmaa11/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/nishisharmaa11/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/nishisharmaa11/Leetcode/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/nishisharmaa11/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nishisharmaa11/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nishisharmaa11/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/nishisharmaa11/Leetcode/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/nishisharmaa11/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1903-largest-odd-number-in-string](https://github.com/nishisharmaa11/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
