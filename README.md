@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nishisharmaa11/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nishisharmaa11/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nishisharmaa11/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nishisharmaa11/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nishisharmaa11/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nishisharmaa11/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishisharmaa11/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nishisharmaa11/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nishisharmaa11/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0414-third-maximum-number) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nishisharmaa11/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/nishisharmaa11/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nishisharmaa11/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/nishisharmaa11/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nishisharmaa11/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nishisharmaa11/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nishisharmaa11/Leetcode/tree/master/0392-is-subsequence) |
