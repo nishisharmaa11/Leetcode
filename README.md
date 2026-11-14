@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/nishisharmaa11/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/nishisharmaa11/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nishisharmaa11/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/nishisharmaa11/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/nishisharmaa11/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nishisharmaa11/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nishisharmaa11/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/nishisharmaa11/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishisharmaa11/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/nishisharmaa11/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/nishisharmaa11/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/nishisharmaa11/Leetcode/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/nishisharmaa11/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nishisharmaa11/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/nishisharmaa11/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/nishisharmaa11/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Simulation
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nishisharmaa11/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/nishisharmaa11/Leetcode/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/nishisharmaa11/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/nishisharmaa11/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/nishisharmaa11/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
@@ -228,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nishisharmaa11/Leetcode/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/nishisharmaa11/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
